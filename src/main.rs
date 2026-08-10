@@ -144,7 +144,8 @@ impl Language {
                 with their full names and abbreviations, along with the number of documents \
                 obtained from each source. Each document name is intentionally duplicated as \
                 the section title, and all available pages of multi-page documents are displayed \
-                completely."
+                completely. Each certificate image is clickable; click an image to open the \
+                full-size document."
             }
             Language::Russian => {
                 "Все документы сгруппированы по организациям и платформам, которые их выдали. \
@@ -152,7 +153,8 @@ impl Language {
                 названиями и аббревиатурами, а также количество документов, полученных от \
                 каждого источника. Название каждого документа специально дублируется в качестве \
                 заголовка, а все доступные страницы многостраничных документов представлены \
-                полностью."
+                полностью. На изображение каждого сертификата можно нажать, чтобы открыть \
+                документ в полном размере."
             }
         }
     }
