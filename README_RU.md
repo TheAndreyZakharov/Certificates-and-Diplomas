@@ -17,9 +17,9 @@
 
 <div align="center">
 
-# Всего документов - 259
+# Всего документов - 260
 
-# Всего организаций и платформ - 66
+# Всего организаций и платформ - 67
 
 </div>
 
@@ -40,6 +40,7 @@
 - [Forage](#forage) — 1
 - [FutureLearn](#futurelearn) — 1
 - [German Corporation for International Cooperation (GIZ) — atingi](#german-corporation-for-international-cooperation-giz-atingi) — 2
+- [Global Campus of Human Rights](#global-campus-of-human-rights) — 1
 - [Global Health Learning Center](#global-health-learning-center) — 6
 - [Goodwill Community Foundation (GCF) Global](#goodwill-community-foundation-gcf-global) — 10
 - [Google Digital Garage](#google-digital-garage) — 1
@@ -658,6 +659,35 @@
 </td>
 <td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
 <a href="docs/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/Machine%20Learning%20on%20Earth%20Observation%20-%20ML4EO%20Bootcamp%20training%20on%20the%20atingi%20eLearning%20platform.webp"><img src="docs/German%20Corporation%20for%20International%20Cooperation%20%28GIZ%29%20%E2%80%94%20atingi/Machine%20Learning%20on%20Earth%20Observation%20-%20ML4EO%20Bootcamp%20training%20on%20the%20atingi%20eLearning%20platform.webp" alt="Machine Learning on Earth Observation - ML4EO Bootcamp training on the atingi eLearning platform" width="250"></a>
+</td>
+</tr>
+</tbody>
+</table>
+
+<p align="right"><a href="#сертификаты-и-дипломы">↑ Наверх</a></p>
+
+---
+
+<a id="global-campus-of-human-rights"></a>
+
+## Global Campus of Human Rights
+
+<div align="center">
+
+**Документов: 1**
+
+</div>
+
+<table align="center" width="250">
+<tbody>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px; overflow-wrap: anywhere; word-break: break-word;">
+<strong>Education During and After Conflict - A Human Rights Call</strong>
+</td>
+</tr>
+<tr>
+<td width="250" align="center" valign="top" style="width: 250px; min-width: 250px; max-width: 250px;">
+<a href="docs/Global%20Campus%20of%20Human%20Rights/Education%20During%20and%20After%20Conflict%20-%20A%20Human%20Rights%20Call.webp"><img src="docs/Global%20Campus%20of%20Human%20Rights/Education%20During%20and%20After%20Conflict%20-%20A%20Human%20Rights%20Call.webp" alt="Education During and After Conflict - A Human Rights Call" width="250"></a>
 </td>
 </tr>
 </tbody>
